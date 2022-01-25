@@ -1,0 +1,57 @@
+nav {
+  height: 50px;
+  background-color: lightgrey;
+}
+.inline-block {
+  padding: 15px;
+  display: inline-block;
+}
+.left {
+  float: left;
+  height: 500px;
+  background-color: lightblue;
+  width: 30%;
+  text-align: center;
+}
+
+img { width: 150px;
+  height: 150px;
+margin-top: 15px; }
+
+.right {
+  float: left;
+  background-color: lightgreen;
+  height: 500px;
+  width: 70%;
+  text-align: center;
+}
+
+.card {
+  display: inline-block;
+  background-color: #363434;
+  border-radius: 5px;
+  height: 200px;
+  width: 150px;
+  margin: 35px;
+  margin-top: 50px;
+}
+
+.button { display: block;
+  float: right;
+  width: 150px;
+  margin: 15px;
+  margin-right: 70px;
+  padding: 15px;
+  text-align: center;
+  float: inline-end;
+  color: black;
+  background-color: burlywood;
+  border-bottom-right-radius: 20px;
+border-top-left-radius: 20px;
+border-top-right-radius: 20px;
+border-bottom-left-radius: 20px;
+outline: black solid 1px; }
+
+.projectDetails { color: cornsilk; }
+
+
